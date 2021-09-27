@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Engineers GridOS", "Space Engineers GridOS\Space Engineers GridOS.csproj", "{3C4C5293-662C-4739-BCF6-1E730B6DE30B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "LEET PWNZ Space Engineers Toolbox", "Toolbox\LEET PWNZ Space Engineers Toolbox.shproj", "{6FD36F57-67FE-4C44-81A0-5F0A961805EF}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Toolbox\LEET_PWNZ_Space_Engineers_Toolbox.projitems*{3c4c5293-662c-4739-bcf6-1e730b6de30b}*SharedItemsImports = 4
+		Toolbox\LEET_PWNZ_Space_Engineers_Toolbox.projitems*{6fd36f57-67fe-4c44-81a0-5f0a961805ef}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4C5293-662C-4739-BCF6-1E730B6DE30B}.Debug|x64.ActiveCfg = Debug|x64
+		{3C4C5293-662C-4739-BCF6-1E730B6DE30B}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7068463-AC2B-446E-A91E-049A1E703FD0}
+	EndGlobalSection
+EndGlobal
