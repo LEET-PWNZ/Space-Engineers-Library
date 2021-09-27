@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Classes\BatteryManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\DoorManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\ScreenManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\SolarPanelManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\TickEventManager.cs" />
