@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using VRage.Game.GUI.TextPanel;
 
-namespace IngameScript.Classes
+namespace SpaceEngineersToolbox.Classes
 {
     public class ScreenManager
     {

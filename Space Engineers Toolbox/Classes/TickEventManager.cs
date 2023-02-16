@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IngameScript.Classes
+namespace SpaceEngineersToolbox.Classes
 {
     public class TickEventManager
     {

@@ -1,14 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <!-- 
-    You can safely exclude this file from code repositories and use different 
-    user settings per machine.
-    -->
     <MDKVersion>1.4.12</MDKVersion>
-    <MDKUseGameBinPath>no</MDKUseGameBinPath>
-    <MDKGameBinPath>d:\program files (x86)\steam\SteamApps\common\SpaceEngineers\Bin64</MDKGameBinPath>
-    <MDKInstallPath>c:\users\steco\appdata\local\microsoft\visualstudio\16.0_dc2bd878\extensions\hjorwcob.ela</MDKInstallPath>
+    <MDKGameBinPath>c:\program files (x86)\steam\SteamApps\common\SpaceEngineers\Bin64</MDKGameBinPath>
+    <MDKInstallPath>c:\users\steco\appdata\local\microsoft\visualstudio\16.0_4dd97bcd\extensions\np3adf42.fzg</MDKInstallPath>
     <MDKOutputPath>C:\Users\steco\AppData\Roaming\SpaceEngineers\IngameScripts\local</MDKOutputPath>
   </PropertyGroup>
   <ItemGroup>

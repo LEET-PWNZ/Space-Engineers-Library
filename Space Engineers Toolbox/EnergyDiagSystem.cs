@@ -1,10 +1,10 @@
-﻿using IngameScript.Classes;
+﻿using SpaceEngineersToolbox.Classes;
 using Sandbox.ModAPI.Ingame;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace IngameScript
+namespace SpaceEngineersToolbox
 {
     public class EnergyDiagSystem
     {

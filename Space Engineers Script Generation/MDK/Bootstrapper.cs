@@ -1,6 +1,6 @@
 ﻿using Malware.MDKUtilities;
 
-namespace IngameScript.MDK
+namespace SpaceEngineersScriptGeneration.MDK
 {
     public class TestBootstrapper
     {
