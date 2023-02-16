@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{30258CFC-3336-43AC-A3B3-409AB0531183}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SpaceEngineersScriptGeneration</RootNamespace>
+    <RootNamespace>IngameScript</RootNamespace>
     <AssemblyName>SpaceEngineersScriptGeneration</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

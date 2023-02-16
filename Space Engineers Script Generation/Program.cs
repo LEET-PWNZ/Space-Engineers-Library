@@ -2,7 +2,6 @@
 using Sandbox.ModAPI.Ingame;
 using Sandbox.ModAPI.Interfaces;
 using SpaceEngineers.Game.ModAPI.Ingame;
-using SpaceEngineersToolbox.Classes;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -19,7 +18,7 @@ using VRage.Game.ModAPI.Ingame.Utilities;
 using VRage.Game.ObjectBuilders.Definitions;
 using VRageMath;
 
-namespace SpaceEngineersScriptGeneration
+namespace IngameScript
 {
     partial class Program : MyGridProgram
     {
@@ -34,6 +33,7 @@ namespace SpaceEngineersScriptGeneration
         public Program()
         {
             doorManager = new DoorManager(this);
+
             Runtime.UpdateFrequency = UpdateFrequency.Update10;
         }
 
